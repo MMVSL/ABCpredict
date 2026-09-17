@@ -1,0 +1,5 @@
+Mol_ID,SMILES
+mol_1,CCCCCN
+mol_2,OCCc1ccccc1
+mol_3,NC(=O)C1=Cc2cc(F)ccc2C1
+mol_4,C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O
