@@ -24,9 +24,9 @@ conda activate ABCpredict
 
 Finally, download the ZIP archive containing the trained models:
 ```sh
-wget http://www.mmvsl.it/wp/wp-content/uploads/PUT_LINK_HERE
+wget http://www.mmvsl.it/wp/wp-content/uploads/2026/09/models.zip
 ```
-Alternatively, you can download the zipped folder by simply opening the link http://www.mmvsl.it/wp/wp-content/uploads/PUT_LINK_HERE in your browser and saving it manually.
+Alternatively, you can download the zipped folder by simply opening the link http://www.mmvsl.it/wp/wp-content/uploads/2026/09/models.zip in your browser and saving it manually.
 
 After downloading, extract the contents of the archive:
 ```sh
