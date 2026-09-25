@@ -47,6 +47,7 @@ After setup, your folder should look like this:
 ```sh
 ABCpredict/
 ├── ABCpredict.py
+├── data
 ├── env_ABCpredict.yml
 ├── example_input.csv
 ├── models      <--- extracted folder containing trained models
@@ -80,3 +81,6 @@ Available endpoints are:
 
 ### Output
 - The ABCpredict.py script will generate a CSV file containing predicted value for the selected endpoint.
+
+### Data Availability
+The training and test datasets used for models development are available in the `data/` directory of this repository.
